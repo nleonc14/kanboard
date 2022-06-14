@@ -1,3 +1,3 @@
-# Kanboardfire
+# Kanboard
 
-Kanboardfire is project management software that focuses on the Kanban methodology.
+Kanboard is project management software that focuses on the Kanban methodology.
